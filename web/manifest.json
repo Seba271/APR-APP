@@ -1,0 +1,11 @@
+{
+  "name": "APR Terreno",
+  "short_name": "APR Terreno",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4F8FC",
+  "theme_color": "#087CAA",
+  "description": "Registro guiado de muestras de agua rural",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
